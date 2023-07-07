@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "ismtchile"]
 	path = ismtchile
-	url = https://github.com/cran/ismtchile
+	url = https://github.com/mrosas47/ismtchile
